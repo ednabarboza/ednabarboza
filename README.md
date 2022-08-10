@@ -17,9 +17,9 @@
 
 <p>Academic education:</p>
 <p>👨‍🎓 Analysis and systems development - <a href="https://uca.edu.br/">FACAP</a>- In progress</p>
-<p>👨‍🎓 Industrial chemistry - <a href="https://www.ufpe.br/deq">UFPE</a></p>
-<p>👨‍🎓 Masters in chemistry - <a href="http://www.ufrpe.br/br">UFRPE</a></p>
-<p>👨‍🎓 PhD in biotechnology - <a href="https://renorbio.org/">RENORBIO - UFPE</a></p><br>
+<p>👨‍🎓 Industrial chemistry - <a href="https://www.ufpe.br/deq" target="_blank">UFPE</a></p>
+<p>👨‍🎓 Masters in chemistry - <a href="http://www.ufrpe.br/br" target="_blank">UFRPE</a></p>
+<p>👨‍🎓 PhD in biotechnology - <a href="https://renorbio.org/" target="_blank">RENORBIO - UFPE</a></p><br>
 
 <p>Recognitions and awards:</p>
 <p>🥉Third runner-up of the first StartSe Tech Academy Hackaton</p><br>
