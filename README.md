@@ -17,7 +17,7 @@
 <p>📖 PROGRAMARIA - Introduction to Web Development </p><br>
 
 <p>Academic education:</p>
-<p>👨‍🎓 Analysis and systems development - <a href="https://uca.edu.br/">FACAP</a>- In progress</p>
+<p>👨‍🎓 Analysis and systems development - <a href="https://uca.edu.br/">FACAP</a></p>
 <p>👨‍🎓 Industrial chemistry - <a href="https://www.ufpe.br/deq" target="_blank">UFPE</a></p>
 <p>👨‍🎓 Masters in chemistry - <a href="http://www.ufrpe.br/br" target="_blank">UFRPE</a></p>
 <p>👨‍🎓 PhD in biotechnology - <a href="https://renorbio.org/" target="_blank">RENORBIO - UFPE</a></p><br>
