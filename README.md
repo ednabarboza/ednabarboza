@@ -11,7 +11,8 @@
  </div><br>
 
 <p>Courses:</p>
-<p>📖 PROGRAMA DESENVOLVE | GRUPO BOTICÁRIO - FULLSTACK - In progress</p>
+<p>📖 ADA TECH - Curso de Desenvolvimento Web - FULLSTACK - In progress</p>
+<p>📖 PROGRAMA DESENVOLVE | GRUPO BOTICÁRIO - FULLSTACK</p>
 <p>📖 SOFTEX - Accelerated Training Program - BACKEND</p>
 <p>📖 STARTSE - Tech Academy Program - FULLSTACK </p>
 <p>📖 PROGRAMARIA - Introduction to Web Development </p><br>
