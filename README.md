@@ -42,4 +42,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednabarboza&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
 
