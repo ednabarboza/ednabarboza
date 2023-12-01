@@ -1,7 +1,5 @@
 ### Hi there, I'm Edna Barboza. Welcome to my profile! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <div style="display: inline_block"><br>
   <span>Currently learning:</span>
   <img align="center" alt="Edna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
